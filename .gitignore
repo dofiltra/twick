@@ -1,0 +1,7 @@
+/.turbo
+/node_modules
+/packages/media-parser/node_modules
+/packages/media-utils/.turbo
+/packages/media-utils/dist
+/packages/media-utils/node_modules
+packages/media-utils/*.tgz
