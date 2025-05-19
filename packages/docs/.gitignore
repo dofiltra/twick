@@ -1,15 +1,14 @@
-# Node modules
-**/node_modules/
+# Docusaurus build output
+/build
+/.docusaurus
 
-# Build artifacts
-**/dist/
-**/build/
+# Dependencies
+/node_modules
 
-# Turbo & Docusaurus
-**/.turbo/
-**/.docusaurus
+# Production
+/build
 
-# Misc files
+# Misc
 .DS_Store
 .env.local
 .env.development.local
@@ -37,6 +36,4 @@ pnpm-debug.log*
 # Cache
 .cache
 .temp
-
-# Tarballs
-**/*.tgz
+.docusaurus 
