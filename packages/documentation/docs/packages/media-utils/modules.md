@@ -234,7 +234,7 @@ ___
 
 Extracts a thumbnail from a video at a specific seek time and playback rate.
 
-This function creates a hidden <video> element in the browser,
+This function creates a hidden video element in the browser,
 seeks to the specified time, and captures the frame into a canvas,
 which is then exported as a JPEG data URL or Blob URL.
 

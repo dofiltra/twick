@@ -11,12 +11,9 @@ const sidebars = {
       label: 'Packages',
       items: [
         {
-          type: 'category',
+          type: 'doc',
           label: 'Media Utils',
-          items: [
-            'packages/media-utils/intro',
-            'packages/media-utils/api',
-          ],
+          id: 'packages/media-utils/modules'
         },
         // Add more packages here as they are documented
       ],

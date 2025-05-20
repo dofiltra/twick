@@ -36,7 +36,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/ncounterspecialist/twick/edit/main/packages/docs/',
+          editUrl: 'https://github.com/ncounterspecialist/twick/edit/main/packages/documentation/',
         },
         blog: false,
         theme: {
@@ -51,7 +51,7 @@ const config = {
     ({
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: '',
+        title: 'Twick',
         logo: {
           alt: 'Twick Logo',
           src: 'img/logo.svg',
@@ -97,7 +97,7 @@ const config = {
       prism: {
         theme: themes.github,
         darkTheme: themes.dracula,
-      },
+      }
     }),
 };
 
