@@ -6,9 +6,13 @@
     "build": "turbo run build",
     "build:media-utils": "turbo run build --filter=@twick/media-utils",
     "build:media-parser": "turbo run build --filter=@twick/media-parser",
+    "build:canvas": "turbo run build --filter=@twick/canvas",
+    "build:documentation": "turbo run build --filter=@twick/documentation",
     "dev": "turbo run dev",
     "dev:media-utils": "turbo run dev --filter=@twick/media-utils",
     "dev:media-parser": "turbo run dev --filter=@twick/media-parser",
+    "dev:canvas": "turbo run dev --filter=@twick/canvas",
+    "dev:documentation": "turbo run dev --filter=@twick/documentation",
     "lint": "turbo run lint",
     "lint:fix": "turbo run lint --fix",
     "test": "turbo run test",
@@ -28,4 +32,4 @@
     "rimraf": "^5.0.5"
   },
   "packageManager": "pnpm@8.15.4"
-} 
+}

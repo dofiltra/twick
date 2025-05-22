@@ -12,8 +12,13 @@ const sidebars = {
       items: [
         {
           type: 'doc',
-          label: 'Media Utils',
+          label: '@twick/media-utils',
           id: 'packages/media-utils/modules'
+        },
+        {
+          type: 'doc',
+          label: '@twick/canvas',
+          id: 'packages/canvas/modules'
         },
         // Add more packages here as they are documented
       ],
