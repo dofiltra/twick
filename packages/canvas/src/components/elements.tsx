@@ -47,7 +47,7 @@ export const getTextElement = ({
     fontWeight: element.props?.fontWeight || "normal",
     fill: element.props?.fill || DEFAULT_TEXT_PROPS.fill,
     stroke: element.props?.stroke || DEFAULT_TEXT_PROPS.stroke,
-    strokeWidth: element.props?.lineWidth || DEFAULT_TEXT_PROPS.strokeWidth,
+    strokeWidth: element.props?.lineWidth || DEFAULT_TEXT_PROPS.lineWidth,
     shadow: element.props?.shadowColor
       ? new Shadow({
           offsetX:
@@ -375,7 +375,7 @@ export const getMediaGroup = ({
       top: frameSize.height / 2,
       fill: "transparent",
       stroke: element.frame.stroke || "#ffffff",
-      strokeWidth: element.frame.strokeWidth || 1,
+      strokeWidth: element.frame.lineWidth || 1,
       originX: "center",
       originY: "center",
       hasControls: true,
