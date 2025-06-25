@@ -6,6 +6,7 @@
     "start": "revideo editor --projectFile ./src/live.tsx",
     "build": "tsc && vite build",
     "docs": "typedoc --out docs src/index.ts",
+    "render": "tsc && node dist/render.js",
     "clean": "rimraf .turbo node_modules dist"
   },
   "dependencies": {
