@@ -1,0 +1,847 @@
+{
+  "format": "9:16",
+  "estimatedDuration": 24.4,
+  "totalWords": 47,
+  "blocks": [
+    {
+      "blockId": "block_1_voice",
+      "order": 1,
+      "type": "intro",
+      "estimatedStartTime": 0,
+      "estimatedDuration": 6.5,
+      "events": [
+        {
+          "type": "voice",
+          "text": "Привет всем! Меня зовут Алексей, и сегодня я расскажу о том, как начать зарабатывать в интернете с нуля.",
+          "speaker": "narrator",
+          "voiceId": "default",
+          "estimatedDuration": 6.5,
+          "wordCount": 13,
+          "metadata": {
+            "speed": "normal",
+            "emotion": "excited",
+            "emphasis_words": [
+              "Алексей",
+              "с",
+              "зарабатывать"
+            ],
+            "pause_after": 0.5
+          }
+        },
+        {
+          "type": "image",
+          "prompt": "A vibrant, energetic young man, Alexei, smiling confidently, gesturing towards a laptop. Modern, clean home office background with subtle digital growth elements. Horizontal web banner, bright lightin",
+          "style": "modern",
+          "aspect": "horizontal",
+          "metadata": {
+            "keywords": [
+              "Алексей",
+              "зарабатывать",
+              "интернет",
+              "с нуля"
+            ],
+            "mood": "energetic",
+            "complexity": "simple",
+            "context_from_voice": "Привет всем! Меня зовут Алексей, и сегодня я расскажу о том, как начать зарабатывать в интернете с нуля."
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "Алексей",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.15
+          },
+          "metadata": {
+            "fontSize": 58,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "fade_in",
+            "duration": 1.7999999999999998,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "зарабатывать",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "metadata": {
+            "fontSize": 48,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "fade_in",
+            "duration": 1.7999999999999998,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "Привет всем",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.85
+          },
+          "metadata": {
+            "fontSize": 48,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "fade_in",
+            "duration": 1.92,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "фриланс",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.15
+          },
+          "metadata": {
+            "fontSize": 58,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "slide_up",
+            "duration": 1.7999999999999998,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "контент",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.15
+          },
+          "metadata": {
+            "fontSize": 58,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "slide_up",
+            "duration": 1.7999999999999998,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "способ",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.15
+          },
+          "metadata": {
+            "fontSize": 58,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "slide_up",
+            "duration": 1.7999999999999998,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "выберете",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "metadata": {
+            "fontSize": 58,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "slide_up",
+            "duration": 1.7999999999999998,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "sound_effect",
+          "effectType": "ding",
+          "timing": "block_start",
+          "metadata": {
+            "volume": 0.48,
+            "duration": 0.5,
+            "fadeIn": 0,
+            "fadeOut": 0,
+            "loop": false,
+            "startTime": 0,
+            "endTime": 0.5
+          }
+        },
+        {
+          "type": "sound_effect",
+          "effectType": "whoosh",
+          "timing": "block_end",
+          "metadata": {
+            "volume": 0.32,
+            "duration": 0.8,
+            "fadeIn": 0.1,
+            "fadeOut": 0.2,
+            "loop": false,
+            "startTime": 25.7,
+            "endTime": 26.2
+          }
+        },
+        {
+          "type": "sound_effect",
+          "effectType": "pop",
+          "timing": "block_start",
+          "metadata": {
+            "volume": 0.43,
+            "duration": 0.5,
+            "fadeIn": 0,
+            "fadeOut": 0,
+            "loop": false,
+            "startTime": 82.89999999999999,
+            "endTime": 83.39999999999999
+          }
+        }
+      ]
+    },
+    {
+      "blockId": "block_2_voice",
+      "order": 2,
+      "type": "main",
+      "estimatedStartTime": 6.8,
+      "estimatedDuration": 8,
+      "events": [
+        {
+          "type": "voice",
+          "text": "Первый способ - это фриланс. Вы можете предлагать свои услуги на различных платформах типа Upwork или Fiverr.",
+          "speaker": "narrator",
+          "voiceId": "default",
+          "estimatedDuration": 8,
+          "wordCount": 16,
+          "metadata": {
+            "speed": "normal",
+            "emotion": "excited",
+            "emphasis_words": [
+              "фриланс",
+              "услуги",
+              "Upwork"
+            ],
+            "pause_after": 0.3,
+            "break_sentences": true
+          }
+        },
+        {
+          "type": "image",
+          "prompt": "Energetic individual, modern, clean workspace. Person actively freelancing on a laptop, with subtle digital overlays of abstract Upwork/Fiverr-like interfaces. Horizontal web banner, vibrant colors, d",
+          "style": "modern",
+          "aspect": "horizontal",
+          "metadata": {
+            "keywords": [
+              "фриланс",
+              "услуги",
+              "Upwork",
+              "Fiverr"
+            ],
+            "mood": "energetic",
+            "complexity": "simple",
+            "context_from_voice": "Первый способ - это фриланс. Вы можете предлагать свои услуги на различных платформах типа Upwork или Fiverr."
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "Алексей",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.15
+          },
+          "metadata": {
+            "fontSize": 58,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "fade_in",
+            "duration": 1.7999999999999998,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "зарабатывать",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "metadata": {
+            "fontSize": 48,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "fade_in",
+            "duration": 1.7999999999999998,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "Привет всем",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.85
+          },
+          "metadata": {
+            "fontSize": 48,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "fade_in",
+            "duration": 1.92,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "фриланс",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.15
+          },
+          "metadata": {
+            "fontSize": 58,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "slide_up",
+            "duration": 1.7999999999999998,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "контент",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.15
+          },
+          "metadata": {
+            "fontSize": 58,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "slide_up",
+            "duration": 1.7999999999999998,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "способ",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.15
+          },
+          "metadata": {
+            "fontSize": 58,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "slide_up",
+            "duration": 1.7999999999999998,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "выберете",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "metadata": {
+            "fontSize": 58,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "slide_up",
+            "duration": 1.7999999999999998,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "sound_effect",
+          "effectType": "ding",
+          "timing": "block_start",
+          "metadata": {
+            "volume": 0.48,
+            "duration": 0.5,
+            "fadeIn": 0,
+            "fadeOut": 0,
+            "loop": false,
+            "startTime": 0,
+            "endTime": 0.5
+          }
+        },
+        {
+          "type": "sound_effect",
+          "effectType": "whoosh",
+          "timing": "block_end",
+          "metadata": {
+            "volume": 0.32,
+            "duration": 0.8,
+            "fadeIn": 0.1,
+            "fadeOut": 0.2,
+            "loop": false,
+            "startTime": 25.7,
+            "endTime": 26.2
+          }
+        },
+        {
+          "type": "sound_effect",
+          "effectType": "pop",
+          "timing": "block_start",
+          "metadata": {
+            "volume": 0.43,
+            "duration": 0.5,
+            "fadeIn": 0,
+            "fadeOut": 0,
+            "loop": false,
+            "startTime": 82.89999999999999,
+            "endTime": 83.39999999999999
+          }
+        }
+      ]
+    },
+    {
+      "blockId": "block_3_voice",
+      "order": 3,
+      "type": "main",
+      "estimatedStartTime": 15.100000000000001,
+      "estimatedDuration": 6,
+      "events": [
+        {
+          "type": "voice",
+          "text": "Второй способ - создание собственного контента. YouTube, TikTok, Instagram - отличные платформы для монетизации.",
+          "speaker": "narrator",
+          "voiceId": "default",
+          "estimatedDuration": 6,
+          "wordCount": 12,
+          "metadata": {
+            "speed": "normal",
+            "emotion": "excited",
+            "emphasis_words": [
+              "контента",
+              "YouTube",
+              "TikTok"
+            ],
+            "pause_after": 0.3,
+            "break_sentences": true
+          }
+        },
+        {
+          "type": "image",
+          "prompt": "Energetic person, modern, bright space, actively creating digital content. Dynamic composition with subtle, abstract representations of YouTube, TikTok, and Instagram. Horizontal web banner, conveying",
+          "style": "modern",
+          "aspect": "horizontal",
+          "metadata": {
+            "keywords": [
+              "контент",
+              "YouTube",
+              "TikTok",
+              "Instagram",
+              "монетизация"
+            ],
+            "mood": "energetic",
+            "complexity": "detailed",
+            "context_from_voice": "Второй способ - создание собственного контента. YouTube, TikTok, Instagram - отличные платформы для монетизации."
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "Алексей",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.15
+          },
+          "metadata": {
+            "fontSize": 58,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "fade_in",
+            "duration": 1.7999999999999998,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "зарабатывать",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "metadata": {
+            "fontSize": 48,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "fade_in",
+            "duration": 1.7999999999999998,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "Привет всем",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.85
+          },
+          "metadata": {
+            "fontSize": 48,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "fade_in",
+            "duration": 1.92,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "фриланс",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.15
+          },
+          "metadata": {
+            "fontSize": 58,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "slide_up",
+            "duration": 1.7999999999999998,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "контент",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.15
+          },
+          "metadata": {
+            "fontSize": 58,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "slide_up",
+            "duration": 1.7999999999999998,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "способ",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.15
+          },
+          "metadata": {
+            "fontSize": 58,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "slide_up",
+            "duration": 1.7999999999999998,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "выберете",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "metadata": {
+            "fontSize": 58,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "slide_up",
+            "duration": 1.7999999999999998,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "sound_effect",
+          "effectType": "ding",
+          "timing": "block_start",
+          "metadata": {
+            "volume": 0.48,
+            "duration": 0.5,
+            "fadeIn": 0,
+            "fadeOut": 0,
+            "loop": false,
+            "startTime": 0,
+            "endTime": 0.5
+          }
+        },
+        {
+          "type": "sound_effect",
+          "effectType": "whoosh",
+          "timing": "block_end",
+          "metadata": {
+            "volume": 0.32,
+            "duration": 0.8,
+            "fadeIn": 0.1,
+            "fadeOut": 0.2,
+            "loop": false,
+            "startTime": 25.7,
+            "endTime": 26.2
+          }
+        },
+        {
+          "type": "sound_effect",
+          "effectType": "pop",
+          "timing": "block_start",
+          "metadata": {
+            "volume": 0.43,
+            "duration": 0.5,
+            "fadeIn": 0,
+            "fadeOut": 0,
+            "loop": false,
+            "startTime": 82.89999999999999,
+            "endTime": 83.39999999999999
+          }
+        }
+      ]
+    },
+    {
+      "blockId": "block_4_voice",
+      "order": 4,
+      "type": "conclusion",
+      "estimatedStartTime": 21.400000000000002,
+      "estimatedDuration": 3,
+      "events": [
+        {
+          "type": "voice",
+          "text": "Какой способ выберете вы? Пишите в комментариях!",
+          "speaker": "narrator",
+          "voiceId": "default",
+          "estimatedDuration": 3,
+          "wordCount": 6,
+          "metadata": {
+            "speed": "slow",
+            "emotion": "questioning",
+            "emphasis_words": [
+              "способ",
+              "выберете",
+              "вы"
+            ],
+            "pause_after": 0.8
+          }
+        },
+        {
+          "type": "image",
+          "prompt": "Energetic person in a modern, clean setting, looking forward with a thoughtful yet confident expression. Multiple glowing, abstract pathways or choice icons in the background. Subtle comment bubble ic",
+          "style": "modern",
+          "aspect": "horizontal",
+          "metadata": {
+            "keywords": [
+              "способ",
+              "выберете",
+              "комментарии"
+            ],
+            "mood": "energetic",
+            "complexity": "simple",
+            "context_from_voice": "Какой способ выберете вы? Пишите в комментариях!"
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "Алексей",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.15
+          },
+          "metadata": {
+            "fontSize": 58,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "fade_in",
+            "duration": 1.7999999999999998,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "зарабатывать",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "metadata": {
+            "fontSize": 48,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "fade_in",
+            "duration": 1.7999999999999998,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "Привет всем",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.85
+          },
+          "metadata": {
+            "fontSize": 48,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "fade_in",
+            "duration": 1.92,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "фриланс",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.15
+          },
+          "metadata": {
+            "fontSize": 58,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "slide_up",
+            "duration": 1.7999999999999998,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "контент",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.15
+          },
+          "metadata": {
+            "fontSize": 58,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "slide_up",
+            "duration": 1.7999999999999998,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "способ",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.15
+          },
+          "metadata": {
+            "fontSize": 58,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "slide_up",
+            "duration": 1.7999999999999998,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "text_overlay",
+          "text": "выберете",
+          "timing": "sync_with_voice",
+          "position": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "metadata": {
+            "fontSize": 58,
+            "fontWeight": "bold",
+            "color": "#ff6b35",
+            "animation": "slide_up",
+            "duration": 1.7999999999999998,
+            "priority": "high"
+          }
+        },
+        {
+          "type": "sound_effect",
+          "effectType": "ding",
+          "timing": "block_start",
+          "metadata": {
+            "volume": 0.48,
+            "duration": 0.5,
+            "fadeIn": 0,
+            "fadeOut": 0,
+            "loop": false,
+            "startTime": 0,
+            "endTime": 0.5
+          }
+        },
+        {
+          "type": "sound_effect",
+          "effectType": "whoosh",
+          "timing": "block_end",
+          "metadata": {
+            "volume": 0.32,
+            "duration": 0.8,
+            "fadeIn": 0.1,
+            "fadeOut": 0.2,
+            "loop": false,
+            "startTime": 25.7,
+            "endTime": 26.2
+          }
+        },
+        {
+          "type": "sound_effect",
+          "effectType": "pop",
+          "timing": "block_start",
+          "metadata": {
+            "volume": 0.43,
+            "duration": 0.5,
+            "fadeIn": 0,
+            "fadeOut": 0,
+            "loop": false,
+            "startTime": 82.89999999999999,
+            "endTime": 83.39999999999999
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "complexity": "complex",
+    "detectedTopics": [
+      "алексей",
+      "зарабатывать",
+      "фриланс",
+      "услуги",
+      "upwork",
+      "fiverr",
+      "контента",
+      "youtube",
+      "tiktok",
+      "instagram"
+    ],
+    "recommendedVoices": [
+      "default"
+    ]
+  }
+}
